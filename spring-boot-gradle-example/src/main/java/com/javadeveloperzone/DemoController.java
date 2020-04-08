@@ -9,4 +9,8 @@ public class DemoController {
     public String hello(){
         return "Spring boot Gradle Example";
     }
+
+    public String hai(){
+        return "Hai this is custom method";
+    }
 }
